@@ -17,22 +17,7 @@ This repository contains my solutions to the **LeetCode Blind 75** problems. The
 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 1 | Two Sum | [Python](./solutions/array/two_sum.py) | Easy |
-
-## 📁 Folder Structure  
-
-```
-LeetCode-Blind-75/
-│── solutions/
-│   ├── array/
-│   │   ├── two_sum.py
-│   │   ├── buy_sell_stock.py
-│   │   ├── contains_duplicate.py
-│   ├── linked_list/
-│   ├── dynamic_programming/
-│   ├── trees/
-│── README.md
-```
+| 1 | Two Sum | [Python](./two_sum.py) | Easy |
 
 ## 🚀 How to Use  
 
@@ -43,7 +28,7 @@ LeetCode-Blind-75/
    ```
 2. Run the solutions:  
    ```sh
-   python solutions/array/two_sum.py
+   python two_sum.py
    ```
 
 ## 📝 Notes  
