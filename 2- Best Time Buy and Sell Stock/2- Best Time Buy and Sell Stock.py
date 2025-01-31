@@ -7,7 +7,7 @@ class Solution:
                 profit = prices[rPointer] - prices[lPointer]
                 maxProfit = max(maxProfit, profit)
             else:
-                lPointer += 1
+                lPointer = rPointer
             rPointer += 1
         return maxProfit
 sol = Solution()
