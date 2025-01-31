@@ -1,5 +1,5 @@
 class Solution:
-    def maxStock(self,prices : list[int])->int:
+    def maxProfit(self,prices : list[int])->int:
         lPointer, rPointer = 0, 1
         maxProfit = 0
         while rPointer < len(prices):
