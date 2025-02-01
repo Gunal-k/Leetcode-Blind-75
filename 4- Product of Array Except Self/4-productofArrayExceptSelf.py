@@ -1,18 +1,18 @@
 class Solution:
-    def productExceptSelf(self, nums : list[int]) -> list[int]:
-        res = [1] * len(nums)
-        prefix = 1
-        for i in range(len(nums)):
-            res[i] = prefix
-            prefix *= nums[i]
+    def productExceptSelf(self, nums: list[int]) -> list[int]:
+        n = len(nums)  # Get the length of the input list
+        res = [1] * n  # Initialize result list with 1s
         
-        postfix = 1
-        for i in range(len(nums)-1, -1, -1):
-            res[i] *= postfix
-            postfix *= nums[i]
+        # Calculate prefix products
+        prefix = 1  # Variable to store the cumulative product from the left
+        for i in range(n):
+            res[i] = prefix  # Store the product of all elements before index i
+            prefix *= nums[i]  # Update prefix for the next iteration
         
-        return res
-
-# Create an instance of the Solution class
-sol = Solution()
-print(sol.productExceptSelf([1,2,3,4])) # [24,12,8,6]
+        # Calculate postfix products and multiply with prefix
+        postfix = 1  # Variable to store the cumulative product from the right
+        for i in range(n-1, -1, -1):  # Iterate from the end to the beginning
+            res[i] *= postfix  # Multiply the stored prefix product with the postfix product
+            postfix *= nums[i]  # Update postfix for the next iteration
+        
+        return res  # Return the final result list
