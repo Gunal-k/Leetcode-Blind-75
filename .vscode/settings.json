@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "7- Find the Minimum Rotated Sorted Array"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
