@@ -22,7 +22,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 ### 🛠 **Array Problems**  
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
-| 1  | Two Sum                          | [Python](1-%20TwoSum/1-TwoSum.py)                                       | Easy       |
+| 1  | Two Sum                          | [Python](1-%20Two%20Sum/1-TwoSum.py)                                       | Easy       |
 | 2  | Best Time to Buy and Sell Stock  | [Python](2-%20Best%20Time%20Buy%20and%20Sell%20Stock/2-%20Best%20Time%20Buy%20and%20Sell%20Stock.py)  | Easy       |
 | 3  | Contains Duplicate               | [Python](3-%20Contains%20Duplicates/3-ContainsDuplicates.py)                  | Easy       |
 | 4  | Product of Array Except Self     | [Python](4-%20Product%20of%20Array%20Except%20Self/4-productofArrayExceptSelf.py)    | Medium     |
