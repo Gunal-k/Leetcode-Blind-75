@@ -13,21 +13,30 @@ This repository contains my solutions to the **LeetCode Blind 75** problems. The
 - **Tree**  
 - **Heap**  
 
+Here’s the updated **📋 Problem List** with categorized topics:  
+
 ## 📋 Problem List  
 
-| #  | Problem                          | Solution                                                                 | Difficulty |
-|----|----------------------------------|---------------------------------------------------------------------------|------------|
-| 1  | Two Sum                          | [Python](./1-%20Two%20Sum)                                               | Easy       |
-| 2  | Best Time to Buy and Sell Stock  | [Python](./2-%20Best%20Time%20Buy%20and%20Sell%20Stock)                  | Easy       |
-| 3  | Contains Duplicate               | [Python](./3-%20Contains%20Duplicate)                                    | Easy       |
-| 4  | Product of Array Except Self     | [Python](./4-%20Product%20of%20Array%20Except%20Self)                    | Medium     |
-| 5  | Maximum Subarray                 | [Python](./5-%20Maximum%20Subarray)                                      | Medium     |
-| 6  | Maximum Product Subarray         | [Python](./6-%20Maximum%20Product%20Subarray)                            | Medium     |
-| 7  | Find Minimum in Rotated Sorted Array | [Python](./7-%20Find%20the%20Minimum%20Rotated%20Sorted%20Array)  | Medium     |
-| 8  | Search in Rotated Sorted Array   | [Python](./8-%20Search%20in%20Rotated%20Sort%20Array)                    | Medium     |
-| 9  | 3Sum                              | [Python](./9-%203Sum)                                                    | Medium     |
-| 10 | Container With Most Water        | [Python](./10-%20Container%20with%20Most%20Water)                        | Medium     |
-| 11 | Number of 1 Bits                 | [Python](./11-%20Number%20of%201%20Bits)                                 | Easy       |
+Each problem is organized inside a **folder** with the same name as the problem, containing the solution file.  
+
+### 🛠 **Array Problems**  
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+| 1  | Two Sum                          | [Python](./1-TwoSum/1-TwoSum.py)                                       | Easy       |
+| 2  | Best Time to Buy and Sell Stock  | [Python](./2-BestTimeToBuyAndSellStock/2-BestTimeToBuyAndSellStock.py)  | Easy       |
+| 3  | Contains Duplicate               | [Python](./3-ContainsDuplicate/3-ContainsDuplicate.py)                  | Easy       |
+| 4  | Product of Array Except Self     | [Python](./4-ProductOfArrayExceptSelf/4-ProductOfArrayExceptSelf.py)    | Medium     |
+| 5  | Maximum Subarray                 | [Python](./5-MaximumSubarray/5-MaximumSubarray.py)                      | Medium     |
+| 6  | Maximum Product Subarray         | [Python](./6-MaximumProductSubarray/6-MaximumProductSubarray.py)        | Medium     |
+| 7  | Find Minimum in Rotated Sorted Array | [Python](./7-FindMinimumInRotatedSortedArray/7-FindMinimumInRotatedSortedArray.py) | Medium |
+| 8  | Search in Rotated Sorted Array   | [Python](./8-SearchInRotatedSortedArray/8-SearchInRotatedSortedArray.py) | Medium     |
+| 9  | 3Sum                              | [Python](./9-ThreeSum/9-ThreeSum.py)                                    | Medium     |
+| 10 | Container With Most Water        | [Python](./10-ContainerWithMostWater/10-ContainerWithMostWater.py)      | Medium     |
+
+### 🔢 **Bit Manipulation Problems**  
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+| 11 | Number of 1 Bits                 | [Python](./11-NumberOf1Bits/11-NumberOf1Bits.py)                        | Easy       |
 
 
 ## 🚀 How to Use  
@@ -47,3 +56,11 @@ This repository contains my solutions to the **LeetCode Blind 75** problems. The
 - Each solution is optimized for time and space complexity.
 - Solutions include comments and explanations.
 - Contributions & suggestions are welcome!
+
+### **📌 Credits**  
+
+This repository is inspired by the **Blind 75** list curated by [NeetCode](https://neetcode.io/) and **DSA roadmaps** from [take U forward](https://takeuforward.org/).  
+
+A huge thanks to these amazing platforms for providing high-quality explanations and structured problem lists to help developers **master Data Structures & Algorithms**. 🙌  
+
+🚀 Keep learning and keep coding! 💻🔥  
