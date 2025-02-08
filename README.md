@@ -36,8 +36,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 ### 🔢 **Bit Manipulation Problems**  
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
-| 11 | Number of 1 Bits                 | [Python](11-%20Number%20of%201%20Bits/11-Numberof1Bits.py)                        | Easy       |
-
+| 11 | Number of 1 Bits                 | [Python](11-%20Number%20of%201%20Bits/11-Numberof1Bits.py)                        | Easy       |                                                       
+| 11 | Counting Bits                 | [Python](12-%20Counting%20Bits/12-CountingBits.py)                        | Easy       |
 
 ## 🚀 How to Use  
 
