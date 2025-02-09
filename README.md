@@ -37,7 +37,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 | 11 | Number of 1 Bits                 | [Python](11-%20Number%20of%201%20Bits/11-Numberof1Bits.py)                        | Easy       |                                                       
-| 11 | Counting Bits                 | [Python](12-%20Counting%20Bits/12-CountingBits.py)                        | Easy       |
+| 12 | Counting Bits                 | [Python](12-%20Counting%20Bits/12-CountingBits.py)                        | Easy       |
+| 13 | Missing Number                 | [Python](13-%20Missing%20Number/13-MissingNumber.py)                        | Easy       |
 
 ## 🚀 How to Use  
 
