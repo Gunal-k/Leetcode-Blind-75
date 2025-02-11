@@ -33,13 +33,18 @@ Each problem is organized inside a **folder** with the same name as the problem,
 | 9  | 3Sum                              | [Python](9-%203Sum/9-3Sum.py)                                    | Medium     |
 | 10 | Container With Most Water        | [Python](10-%20Container%20with%20Most%20Water/10-ContainerwithMostWater.py)      | Medium     |
 
-### 🔢 **Bit Manipulation Problems**  
+### 🔢 **Binary**  
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 | 11 | Number of 1 Bits                 | [Python](11-%20Number%20of%201%20Bits/11-Numberof1Bits.py)                        | Easy       |                                                       
 | 12 | Counting Bits                 | [Python](12-%20Counting%20Bits/12-CountingBits.py)                        | Easy       |
 | 13 | Missing Number                 | [Python](13-%20Missing%20Number/13-MissingNumber.py)                        | Easy       |
+| 14 | Reverse Bits                 | [Python](14-%20Reverse%20Bits/14-ReverseBits.py)                        | Easy       |
 
+### 🔥 **Dynamic Programming**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+| 15|Climbing Stairs|[Python](https://github.com/Gunal-k/Leetcode-Blind-75/tree/main/15-%20Climbing%20Stars)|Medium|
 ## 🚀 How to Use  
 
 1. Clone the repo:  
