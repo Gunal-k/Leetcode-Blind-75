@@ -44,7 +44,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 ### 🔥 **Dynamic Programming**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
-| 15|Climbing Stairs|[Python](https://github.com/Gunal-k/Leetcode-Blind-75/blob/main/15-%20Climbing%20Stars/15-ClimbingStairs.py)|Medium|
+| 15|Climbing Stairs|[Python](15-%20Climbing%20Stars/15-ClimbingStairs.py)|Medium|
 ## 🚀 How to Use  
 
 1. Clone the repo:  
