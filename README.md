@@ -46,6 +46,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 | 15|Climbing Stairs|[Python](15-%20Climbing%20Stars/15-ClimbingStairs.py)|Medium|
 |16|Coin Change|[Python](16-%20Coin%20Change/16-CoinChange.py)|Hard|
+|17|Longest Increasing Subsequence|[Python](17-%20Longest%20Increasing%20Subsequence/17-LongestIncreasingSubsequence.py)|Medium|
 ## 🚀 How to Use  
 
 1. Clone the repo:  
