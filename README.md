@@ -48,6 +48,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |16|Coin Change|[Python](16-%20Coin%20Change/16-CoinChange.py)|Hard|
 |17|Longest Increasing Subsequence|[Python](17-%20Longest%20Increasing%20Subsequence/17-LongestIncreasingSubsequence.py)|Medium|
 |18|Longest Common Subsequence|[python](18-%20Longest%20Common%20Subsequence/18-LongestCommonSubsequence.py)|Medium|
+|19|Word Break|[python](19-%20Word%20Break/19-WordBreak.py)|Medium|
+|20|Combination Sum|[python](20-%20Combination%20Sum/20-CombinationSum.py)|Medium|
 
 ## 🚀 How to Use  
 
