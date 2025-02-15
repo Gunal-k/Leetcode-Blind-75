@@ -12,4 +12,4 @@ class Solution:
         return dp[0][0]
 
 sol = Solution()
-print(sol.longestCommonSubsequence("abcde","ace"))
+print(sol.longestCommonSubsequence("abcde","ace")) // 3
