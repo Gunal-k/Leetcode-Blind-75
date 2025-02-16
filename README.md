@@ -50,6 +50,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |18|Longest Common Subsequence|[Python](18-%20Longest%20Common%20Subsequence/18-LongestCommonSubsequence.py)|Medium|
 |19|Word Break|[Python](19-%20Word%20Break/19-WordBreak.py)|Medium|
 |20|Combination Sum|[Python](20-%20Combination%20Sum/20-CombinationSum.py)|Medium|
+|21|House Robber|[Python](21-%House%20Robber/21-HouseRobber.py)|Medium|
+|22|House Robber 2|[Python](22-%House%20Robber%202/22-HouseRobber2.py)|Medium|
 
 ## 🚀 How to Use  
 
