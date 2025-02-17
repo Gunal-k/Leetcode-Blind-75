@@ -52,7 +52,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |20|Combination Sum|[Python](20-%20Combination%20Sum/20-CombinationSum.py)|Medium|
 |21|House Robber|[Python](21-%House%20Robber/21-HouseRobber.py)|Medium|
 |22|House Robber 2|[Python](22-%House%20Robber%202/22-HouseRobber2.py)|Medium|
-|23|Decode Ways|[Python](23-%20Decodee%20Ways/23-DecodeWays.py)|Medium|
+|23|Decode Ways|[Python](23-%20Decode%20Ways/23-DecodeWays.py)|Medium|
 
 ## 🚀 How to Use  
 
