@@ -54,6 +54,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |22|House Robber 2|[Python](22-%House%20Robber%202/22-HouseRobber2.py)|Medium|
 |23|Decode Ways|[Python](23-%20Decode%20Ways/23-DecodeWays.py)|Medium|
 |24|Unique Paths|[Python](24-%20Unique%20Paths/24-UniquePaths.py)|Medium|
+|25|Jump Game|[Python](25-%20Jump%20Game/25-JumpGame.py)|Medium|
 
 ## 🚀 How to Use  
 
