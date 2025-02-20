@@ -55,6 +55,11 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |23|Decode Ways|[Python](23-%20Decode%20Ways/23-DecodeWays.py)|Medium|
 |24|Unique Paths|[Python](24-%20Unique%20Paths/24-UniquePaths.py)|Medium|
 |25|Jump Game|[Python](25-%20Jump%20Game/25-JumpGame.py)|Medium|
+
+
+### 📈 **Graph**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
 |26|Clone Graph|[Python](26-%20Clone%20Graph/26-CloneGraph.py)|Medium|
 
 ## 🚀 How to Use  
