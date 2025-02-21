@@ -62,6 +62,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |26|Clone Graph|[Python](26-%20Clone%20Graph/26-CloneGraph.py)|Hard|
 |27|Course Schedule -1|[Python](27-%20Course%20Schedule%20-1/27-CourseSchedule-1.py)|Hard|
+|28|Pacific Atlantic Water Flow|[Python](28-%20Pacific%20Atlantic%20Water%20Flow/28-PacificAtlanticWaterFlow.py)|Medium|
 
 ## 🚀 How to Use  
 
