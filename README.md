@@ -64,6 +64,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |27|Course Schedule -1|[Python](27-%20Course%20Schedule%20-1/27-CourseSchedule-1.py)|Hard|
 |28|Pacific Atlantic Water Flow|[Python](28-%20Pacific%20Atlantic%20Water%20Flow/28-PacificAtlanticWaterFlow.py)|Medium|
 |29|Number Of Islands|[Python](29-%20Number%20Of%20Islands/29-NumberOfIslands.py)|Hard|
+|30|Longest Consecutive Sequence|[Python](30-%20Longest%20Consecutive%20Sequence/30-LongestConsecutiveSequence.py)|Medium|
 
 ## 🚀 How to Use  
 
