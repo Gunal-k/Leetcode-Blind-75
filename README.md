@@ -65,6 +65,9 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |28|Pacific Atlantic Water Flow|[Python](28-%20Pacific%20Atlantic%20Water%20Flow/28-PacificAtlanticWaterFlow.py)|Medium|
 |29|Number Of Islands|[Python](29-%20Number%20Of%20Islands/29-NumberOfIslands.py)|Hard|
 |30|Longest Consecutive Sequence|[Python](30-%20Longest%20Consecutive%20Sequence/30-LongestConsecutiveSequence.py)|Medium|
+|31|Alien Dictionary|[Python](31-%20Alien%20Dictionary/31-AlienDictionary.py)|Hard|
+|32|Graph Valid Tree|[Python](32-%20Graph%20Valid%20Tree/32-GraphValidTree.py)|Medium|
+|33|Number Of Connected Components|[Python](33-%20Connected%20Components/33-ConnectedComponents.py)|Hard|
 
 ## 🚀 How to Use  
 
