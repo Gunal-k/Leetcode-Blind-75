@@ -69,7 +69,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |32|Graph Valid Tree|[Python](32-%20Graph%20Valid%20Tree/32-GraphValidTree.py)|Medium|
 |33|Number Of Connected Components|[Python](33-%20Connected%20Components/33-ConnectedComponents.py)|Hard|
 
-### 📈 **Intervals**
+### ↔️ **Intervals**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |34|Insert Interval|[Python](34-%20Insert%20Interval/34-InsertInterval.py)|Medium|
 |35|Merge Intervals|[Python](35-%20Merge%20Intervals/35-MergeIntervals.py)|Medium|
