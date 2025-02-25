@@ -71,6 +71,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 
 ### ↔️ **Intervals**
 | #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
 |34|Insert Interval|[Python](34-%20Insert%20Interval/34-InsertInterval.py)|Medium|
 |35|Merge Intervals|[Python](35-%20Merge%20Intervals/35-MergeIntervals.py)|Medium|
 
