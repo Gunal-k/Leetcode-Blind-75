@@ -74,6 +74,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |34|Insert Interval|[Python](34-%20Insert%20Interval/34-InsertInterval.py)|Medium|
 |35|Merge Intervals|[Python](35-%20Merge%20Intervals/35-MergeIntervals.py)|Medium|
+|36|Non-Overlapping Intervals|[Python](36-%20Non-Overlapping%20Intervals/36-Non-OverlappingIntervals.py)|Medium|
+|37|Meeting Rooms|[Python](37-%20Meeting%20Rooms/37-MeetingRooms.py)|Medium|
 
 ## 🚀 How to Use  
 
