@@ -78,6 +78,12 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |37|Meeting Rooms|[Python](37-%20Meeting%20Rooms/37-MeetingRooms.py)|Medium|
 |38|Meeting Rooms 2|[Python](38-%20Meeting%20Rooms%202/38-MeetingRooms2.py)|Medium|
 
+### ↔️ **Linked List**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+|39|Reverse Linked List|[Python](39-%20Reverse%20Linked%20List/39-RevereLinkedList.py)|Easy|
+|40|Linked List Cycle|[Python](40-%20Linked%20List%20Cycle/40-LinkedListCycle.py)|Medium|
+
 ## 🚀 How to Use  
 
 1. Clone the repo:  
