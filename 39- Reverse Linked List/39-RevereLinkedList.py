@@ -3,7 +3,8 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-        
+
+#original code start here
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         prev, curr = None, head
@@ -14,6 +15,7 @@ class Solution:
             prev = curr
             curr = nxt
         return prev
+#Ends here
 
 def create_linked_list(arr):
     if not arr:
