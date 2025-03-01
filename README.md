@@ -83,6 +83,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |39|Reverse Linked List|[Python](39-%20Reverse%20Linked%20List/39-RevereLinkedList.py)|Easy|
 |40|Linked List Cycle|[Python](40-%20Linked%20List%20Cycle/40-LinkedListCycle.py)|Medium|
+|41|Merge two Sorted Lists|[Python](41-%20Merge%20Two%20Sorted%20Lists/41-MergeTwoSortedLists.py)|Easy|
 
 ## 🚀 How to Use  
 
