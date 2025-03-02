@@ -54,4 +54,4 @@ solution = Solution()
 print_linked_list(list1)
 print_linked_list(list2)
 merged_list = solution.mergeTwoLists(list1, list2)
-print_linked_list(merged_list)
+print_linked_list(merged_list) # Expected output: 1 -> 1 -> 2 -> 3 -> 4 -> 4 -> None
