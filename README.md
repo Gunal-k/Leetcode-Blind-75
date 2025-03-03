@@ -86,6 +86,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |41|Merge two Sorted Lists|[Python](41-%20Merge%20Two%20Sorted%20Lists/41-MergeTwoSortedLists.py)|Easy|
 |42|Merge K Sorted Lists|[Python](42-%20Merge%20K%20Sorted%20Lists/42-MergeKSortedLists.py)|Hard|
 |43|Remove Nth Node From End of List|[Python](43-%20Remove%20Nth%20Node%20From%20End%20of%20List/43-RemoveNthFromEnd.py)|Medium|
+|44|Reorder List|[Python](44-%20Reorder%20List/44-ReorderList.py)|Medium|
 
 ## 🚀 How to Use  
 
