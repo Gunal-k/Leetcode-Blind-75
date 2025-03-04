@@ -88,6 +88,12 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |43|Remove Nth Node From End of List|[Python](43-%20Remove%20Nth%20Node%20From%20End%20of%20List/43-RemoveNthFromEnd.py)|Medium|
 |44|Reorder List|[Python](44-%20Reorder%20List/44-ReorderList.py)|Medium|
 
+### ↔️ **Matrix**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+|45|Set Matrix Zeroes|[Python](45-%20Set%20Matrix%20Zeroes/45-SetMatrixZeroes.py)|Medium|
+|46|Spiral Matrix|[Python](46-%20Spiral%20Matrix/46-SpiralMatrix.py)|Medium|
+
 ## 🚀 How to Use  
 
 1. Clone the repo:  
