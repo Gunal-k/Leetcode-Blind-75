@@ -66,9 +66,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |30|Longest Consecutive Sequence|[Python](30-%20Longest%20Consecutive%20Sequence/30-LongestConsecutiveSequence.py)|Medium|
 |31|Alien Dictionary|[Python](31-%20Alien%20Dictionary/31-AlienDictionary.py)|Hard|
 |32|Graph Valid Tree|[Python](32-%20Graph%20Valid%20Tree/32-GraphValidTree.py)|Medium|
-|33|Number Of Connected Components|[Python](33-%20Connected%20Components/33-ConnectedComponents.py)|Hard|
 
-### ↔️ **Intervals**
+### ⏳ **Intervals**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |34|Insert Interval|[Python](34-%20Insert%20Interval/34-InsertInterval.py)|Medium|
@@ -76,8 +75,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |36|Non-Overlapping Intervals|[Python](36-%20Non-Overlapping%20Intervals/36-Non-OverlappingIntervals.py)|Medium|
 |37|Meeting Rooms|[Python](37-%20Meeting%20Rooms/37-MeetingRooms.py)|Medium|
 |38|Meeting Rooms 2|[Python](38-%20Meeting%20Rooms%202/38-MeetingRooms2.py)|Medium|
-
-### ↔️ **Linked List**
+### 🔗 **Linked List**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |39|Reverse Linked List|[Python](39-%20Reverse%20Linked%20List/39-RevereLinkedList.py)|Easy|
@@ -87,7 +85,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |43|Remove Nth Node From End of List|[Python](43-%20Remove%20Nth%20Node%20From%20End%20of%20List/43-RemoveNthFromEnd.py)|Medium|
 |44|Reorder List|[Python](44-%20Reorder%20List/44-ReorderList.py)|Medium|
 
-### ↔️ **Matrix**
+### 🧩 **Matrix**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |45|Set Matrix Zeroes|[Python](45-%20Set%20Matrix%20Zeroes/45-SetMatrixZeroes.py)|Medium|
