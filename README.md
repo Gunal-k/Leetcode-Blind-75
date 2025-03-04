@@ -8,10 +8,9 @@ This repository contains my solutions to the **LeetCode Blind 75** problems. The
 - **Binary**  
 - **Dynamic Programming**  
 - **Graph**  
+- **Intervals**  
 - **Linked List**  
-- **String**  
-- **Tree**  
-- **Heap**  
+- **Matrix**  
 
 Here’s the updated **📋 Problem List** with categorized topics:  
 
