@@ -89,6 +89,9 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |45|Set Matrix Zeroes|[Python](45-%20Set%20Matrix%20Zeroes/45-SetMatrixZeroes.py)|Medium|
 |46|Spiral Matrix|[Python](46-%20Spiral%20Matrix/46-SpiralMatrix.py)|Medium|
+|47|Rotate Image|[Python](47-%20Rotate%20Image/47-RotateImage.py)|Medium|
+|48|Word Search|[Python](48-%20Word%20Search/48-WordSearch.py)|Medium|
+
 
 ## 🚀 How to Use  
 
