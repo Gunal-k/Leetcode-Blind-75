@@ -92,6 +92,12 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |47|Rotate Image|[Python](47-%20Rotate%20Image/47-RotateImage.py)|Medium|
 |48|Word Search|[Python](48-%20Word%20Search/48-WordSearch.py)|Medium|
 
+### 🧵 **String**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+|49|Longest Substring Without Repeating Characters|[Python](49-%20Longest%20Substring%20Without%20Repeating%20Characters/49-LongestSubstringWithoutRepeatingCharacters.py)|Medium|
+|50|Longest Repeating Character Replacement|[Python](50-%20Longest%20Repeating%20Character%20Replacement/50-LongestRepeatingCharacterReplacement.py)|Medium|
+
 
 ## 🚀 How to Use  
 
