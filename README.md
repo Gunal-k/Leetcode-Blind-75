@@ -97,7 +97,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |49|Longest Substring Without Repeating Characters|[Python](49-%20Longest%20Substring%20Without%20Repeating%20Characters/49-LongestSubstringWithoutRepeatingCharacters.py)|Medium|
 |50|Longest Repeating Character Replacement|[Python](50-%20Longest%20Repeating%20Character%20Replacement/50-LongestRepeatingCharacterReplacement.py)|Medium|
-
+|51|Minimum Window Substring|[Python](51-%20Minimum%20Window%20Substring/51-MinimumWindowSubstring.py)|Hard|
 
 ## 🚀 How to Use  
 
