@@ -100,6 +100,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |51|Minimum Window Substring|[Python](51-%20Minimum%20Window%20Substring/51-MinimumWindowSubstring.py)|Hard|
 |52|Group Anagrams|[Python](52-%20Group%20Anagrams/52-GroupAnagrams.py)|Medium|
 |53|Valid Parentheses|[Python](53-%20Valid%20Parentheses/53-ValidParentheses.py)|Easy|
+|54|Valid Palindrome|[Python](54-%20Valid%20Palindrome/54-ValidPalindrome.py)|Easy|
+|55|Longest Palindromic Substring|[Python](55-%20Longest%20Palindromic%20Substring/55-LongestPalindromicSubstring.py)|Medium|
 
 ## 🚀 How to Use  
 
