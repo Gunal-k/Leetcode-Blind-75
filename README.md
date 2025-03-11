@@ -103,6 +103,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |54|Valid Palindrome|[Python](54-%20Valid%20Palindrome/54-ValidPalindrome.py)|Easy|
 |55|Longest Palindromic Substring|[Python](55-%20Longest%20Palindromic%20Substring/55-LongestPalindromicSubstring.py)|Medium|
 |56|Palindromic Substrings|[Python](56-%20Palindromic%20Substrings/56-PalindromicSubstrings.py)|Medium|
+|57|Encode and Decode Strings|[Python](57-%20Encode%20And%20Decode%20Strings/57-EncodeAndDecodeStrings.py)|Medium|
 
 ## 🚀 How to Use  
 
