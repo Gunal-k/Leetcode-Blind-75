@@ -105,6 +105,11 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |56|Palindromic Substrings|[Python](56-%20Palindromic%20Substrings/56-PalindromicSubstrings.py)|Medium|
 |57|Encode and Decode Strings|[Python](57-%20Encode%20And%20Decode%20Strings/57-EncodeAndDecodeStrings.py)|Medium|
 
+### 🌳 **Tree**
+| #  | Problem                          | Solution                                                               | Difficulty |
+|----|----------------------------------|-------------------------------------------------------------------------|------------|
+|58|Maximum Depth of Binary Tree|[Python](58-%20Maximum%20Depth%20of%20Binary%20Tree/58-MaximumDepthofBinaryTree.py)|Easy|
+
 ## 🚀 How to Use  
 
 1. Clone the repo:  
