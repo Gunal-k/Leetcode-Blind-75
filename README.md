@@ -109,6 +109,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|-------------------------------------------------------------------------|------------|
 |58|Maximum Depth of Binary Tree|[Python](58-%20Maximum%20Depth%20of%20Binary%20Tree/58-MaximumDepthofBinaryTree.py)|Easy|
+|59|Same Tree|[Python](59-%20Same%20Tree/59-SameTree.py)|Easy|
+|60|Invert Binary Tree|[Python](60-%20Invert%20Binary%20Tree/60-InvertBinaryTree.py)|Easy|
 
 ## 🚀 How to Use  
 
