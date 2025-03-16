@@ -112,6 +112,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |59|Same Tree|[Python](59-%20Same%20Tree/59-SameTree.py)|Easy|
 |60|Invert Binary Tree|[Python](60-%20Invert%20Binary%20Tree/60-InvertBinaryTree.py)|Easy|
 |61|Binary Tree Maximum Path Sum|[Python](61-%20Binary%20Tree%20Maximum%20Path%20Sum/61-BinaryTreeMaximumPathSum.py)|Hard|
+|62|Binary Tree Level Order Traversal|[Python](62-%20Binary%20Tree%20Level%20Order%20Traversal/62-BinaryTreeLevelOrderTraversal.py)|Medium|
 
 ## 🚀 How to Use  
 
