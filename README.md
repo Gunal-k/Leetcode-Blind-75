@@ -115,6 +115,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |62|Binary Tree Level Order Traversal|[Python](62-%20Binary%20Tree%20Level%20Order%20Traversal/62-BinaryTreeLevelOrderTraversal.py)|Medium|
 |63|Serialize and Deserialize Binary Tree|[Python](63-%20Serialize%20And%20Deserialize%20Binary%20Tree/63-SerializeAndDeserializeBinaryTree.py)|Hard|
 |64|Subtree of Another Tree|[Python](64-%20Subtree%20of%20Another%20Tree/64-SubtreeOfAnotherTree.py)|Easy|
+|65|Construct Binary Tree from Preorder and Postorder|[Python](65-%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder/65-ConstructBinaryTreefromPreorderandPostorder.py)|Medium|
 
 ## 🚀 How to Use  
 
