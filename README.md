@@ -119,6 +119,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |66|Validate Binary Search Tree|[Python](66-%20Validate%20Binary%20Search%20Tree/66-ValidateBinarySearchTree.py)|Medium|
 |67|Kth Smallest Element in a BST|[Python](67-%20Kth%20Smallest%20Element%20in%20a%20BST/67-KthSmallestElementinaBST.py)|Medium|
 |68|Lowest Common Ancestor of a Binary Search Tree|[Python](68-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/68-LowestCommonAncestorofaBinarySearchTree.py)|Medium|
+|69|Implement Trie (Prefix Tree)|[Python](69-%20Implement%20Trie%20(Prefix%20Tree)/69-ImplementTrie(Prefix%20Tree).py)|Medium|
 
 ## 🚀 How to Use  
 
