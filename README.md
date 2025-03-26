@@ -122,7 +122,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |69|Implement Trie (Prefix Tree)|[Python](69-%20Implement%20Trie%20(Prefix%20Tree)/69-ImplementTrie(Prefix%20Tree).py)|Medium|
 |70|Design Add and Search Words Data Structure|[Python](70-%20Design%20Add%20and%20Search%20Words%20Data%20Structure/70-DesignAddAndSearchWordsDataStructure.py)|Medium|
 |71|Word Search 2|[Python](71-%20Word%20Search%202/71-WordSearch2.py)|Hard|
-
+|72|K Most Frequent Elements|[Python](72-%20K%20Most%20Frequent%20Elements/72-KMostFrequentElements.py)|Medium|
 
 ## 🚀 How to Use  
 
