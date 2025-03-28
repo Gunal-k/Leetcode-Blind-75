@@ -18,8 +18,6 @@ Here’s the updated **📋 Problem List** with categorized topics:
 
 Each problem is organized inside a **folder** with the same name as the problem, containing the solution file.  
 
-### 🛠 **Array Problems**  
-| #  | Problem                          | Solution                                                               | Difficulty |
 ### 🛠 **Array Problems**
 | #  | Problem                          | Solution                                                               | Difficulty |
 |----|----------------------------------|------------------------------------------------------------------------|------------|
@@ -31,6 +29,8 @@ Each problem is organized inside a **folder** with the same name as the problem,
 |8|Search in Rotated Sorted Array|[Python](8-%20Search%20in%20Rotated%20Sort%20Array/8-SearchinRotatedSortArray.py)| Medium |
 |9|3Sum| [Python](9-%203Sum/9-3Sum.py) | Medium |
 |10|Container With Most Water|[Python](10-%20Container%20with%20Most%20Water/10-ContainerwithMostWater.py) | Medium |
+|74|Valid Anagram|[Python](74-%20Valid%20Anagram/74-ValidAnagram.py)|Easy|
+
 
 ### 🔢 **Binary**  
 | #  | Problem                          | Solution                                                               | Difficulty |
@@ -38,6 +38,7 @@ Each problem is organized inside a **folder** with the same name as the problem,
 | 12 | Counting Bits | [Python](12-%20Counting%20Bits/12-CountingBits.py) | Easy |
 | 13 | Missing Number | [Python](13-%20Missing%20Number/13-MissingNumber.py) | Easy |
 | 14 | Reverse Bits | [Python](14-%20Reverse%20Bits/14-ReverseBits.py) | Easy |
+|75|Sum of Two Integers|[Python](75-%20Sum%20of%20Two%20Integers/75-SumOfTwoIntegers.py)|Medium|
 
 ### 🔥 **Dynamic Programming**
 | #  | Problem                          | Solution                                                               | Difficulty |
